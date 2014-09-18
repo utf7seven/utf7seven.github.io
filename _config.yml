@@ -39,7 +39,8 @@ timezone:      null
 
 
 #站点基础配置
-title: Violet
+#title: Violet
+title: Seven
 subTitle: Just another Jekyll blog.
 description: 这是 utf7seven 的一个博客,在这里，用来快速记录工作，学习，生活的一点一滴的地方。
 url: http://utf7seven.github.io
